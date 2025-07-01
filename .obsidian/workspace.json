@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "b5fc7474285de03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "31de7fc903acd4cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962b26c741135dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试问题/6.27问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.27问题"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c6e32c56868e1ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b33cfa6af0d13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d42c6c0667623df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2cd77d00065ca513",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "021f7281d593f787",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d787d29209998f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7b9b1b1ba82986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c865535e550ce58d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a161b4ddf84f3bd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面试问题/6.27问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "6.27问题 的出链列表"
+            }
+          },
+          {
+            "id": "87bd4fb13c0bbfd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5b8a9e56a1645201",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "638669f60e73b13b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "962b26c741135dc7",
+  "lastOpenFiles": [
+    "面试问题/6.25提问.md",
+    "面试问题/6.28问题.md",
+    "面试问题/6.27问题.md",
+    "面试问题/6.24提问.md",
+    "sanhaoxuesheng",
+    "obisidian",
+    "Linux/scqoop/linux中定时调度shell封装的sqoop的脚本.md",
+    "Linux/scqoop/shell脚本封装sqoop实现怎么将分区表的数据通过shell脚本，导出到oracle数据库.md",
+    "Linux/scqoop/检查sqoop和mysql之间是否能连接.md",
+    "Linux/scqoop/检查sqoop和oracle之间是否能连接.md",
+    "Linux/scqoop/hive表的数据导出到oracle中.md",
+    "Linux/scqoop/oracle的emp表的数据导入到hive分区表中.md",
+    "Linux/scqoop/racle的emp表的数据增量抽取到hive中.md",
+    "Linux/scqoop/shell脚本封装sqoop实现：自动的对昨天的数据，进行分区数据的导入.md",
+    "Linux/scqoop/shell脚本封装sqoop实现增量抽取.md",
+    "Linux/scqoop/把oracle的emp表的数据全部追加到hive中.md",
+    "Linux/scqoop/加速数据导出的一个方法.md",
+    "Linux/scqoop/sqoop 简介.md",
+    "Linux/未命名思维导图.md",
+    "Python/基本定义/集合set.md",
+    "Python/python读取接口数据(json格式).md",
+    "Oracle/数据查询/索引/索引.md",
+    "未命名.canvas",
+    "Oracle/用户与权限管理/用户与权限管理.md",
+    "Linux/scqoop",
+    "oracle.md",
+    "递归.md",
+    "数仓建模.pdf",
+    "Linux/数据库之间数据抽取/oracle的表格抽取到mysql中.md",
+    "Linux/数据库之间数据抽取/把oracle的表抽取到hive中(传参的写法).md",
+    "Oracle/系统优化/系统优化.md",
+    "Pasted image 20250627221808.png",
+    "Pasted image 20250627221021.png",
+    "Pasted image 20250627220742.png",
+    "Pasted image 20250627215428.png",
+    "Python/基本操作",
+    "Python/基本定义",
+    "Python",
+    "img/Pasted image 20250521095955.png",
+    "Linux",
+    "Pasted image 20250627222728.png",
+    "Pasted image 20250627223325.png",
+    "Pasted image 20250627223824.png",
+    "Oracle",
+    "Pasted image 20250628151145.png",
+    "Pasted image 20250628150932.png",
+    "面试问题",
+    "Linux链接gauss/未命名.canvas"
+  ]
+}
